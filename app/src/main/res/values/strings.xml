@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="txtAbir">Abri camera</string>
+    <string name="txt_tirar">Tirar uma foto!</string>
+    <string name="txt_Minha_Loc">Minha Localização!</string>
+</resources>
